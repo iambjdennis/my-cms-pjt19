@@ -3,7 +3,7 @@
 Designed a photography portfolio - ironhide photography.
 https://www.figma.com/file/4T9P5cUlMpWiw4XCqt6CVH/Team_19_MyCMS?node-id=605%3A271
 
-Pioneered with @Eddie on the About Us page of Optimus CMS.
+Pioneered with [@Eddie](https://github.com/MissEddie) on the About Us page of Optimus CMS.
 https://www.figma.com/file/4T9P5cUlMpWiw4XCqt6CVH/Team_19_MyCMS?node-id=848%3A311
 
 Assembled the design slides used for the team_19 first presentation with @Mideh
